@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7077180463319925132}
   - component: {fileID: 2967896762701019486}
   - component: {fileID: 6174132194953907996}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91,7 +91,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2395077538979029313}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: d3a752af64bdc4fedace62e54390b8e9, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
