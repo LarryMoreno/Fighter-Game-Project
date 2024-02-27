@@ -724,8 +724,16 @@ PrefabInstance:
     m_TransformParent: {fileID: 2003349279}
     m_Modifications:
     - target: {fileID: 100002, guid: fe90a525eff9dbc439505c489f68d933, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: fe90a525eff9dbc439505c489f68d933, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: fe90a525eff9dbc439505c489f68d933, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 100004, guid: fe90a525eff9dbc439505c489f68d933, type: 3}
       propertyPath: m_IsActive
@@ -734,6 +742,10 @@ PrefabInstance:
     - target: {fileID: 100004, guid: fe90a525eff9dbc439505c489f68d933, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: fe90a525eff9dbc439505c489f68d933, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 100006, guid: fe90a525eff9dbc439505c489f68d933, type: 3}
       propertyPath: m_IsActive
@@ -931,7 +943,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2003349279}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: TrainingStage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
