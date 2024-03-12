@@ -1,9 +1,10 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.Netcode;
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class PlayerMovement : NetworkBehaviour
 {
     private CharacterAnimation player_Anim;
     private Rigidbody rb;
@@ -27,6 +28,8 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(!IsOwner) return;
+        
         /*float horizontalInput = Input.GetAxis("Horizontal");
         float verticalInput = Input.GetAxis("Vertical");
 
@@ -55,9 +58,9 @@ public class PlayerMovement : MonoBehaviour
 
     void DetectMovement(){
         rb.velocity = new Vector3(
-            Input.GetAxisRaw(Axis.HORIZONTAL_AXIS) * (movementSpeed),
+            Input.GetAxisRaw(Axis.HORIZONTAL_AXIS) * (-movementSpeed),
             rb.velocity.y,
-            Input.GetAxisRaw(Axis.VERTICAL_AXIS) * (z_Speed));
+            Input.GetAxisRaw(Axis.VERTICAL_AXIS) * (-z_Speed));
     }
 
     void RotatePlayer() {
