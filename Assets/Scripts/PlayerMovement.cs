@@ -58,9 +58,9 @@ public class PlayerMovement : NetworkBehaviour
 
     void DetectMovement(){
         rb.velocity = new Vector3(
-            Input.GetAxisRaw(Axis.HORIZONTAL_AXIS) * (-movementSpeed),
+            Input.GetAxisRaw(Axis.HORIZONTAL_AXIS) * (movementSpeed),
             rb.velocity.y,
-            Input.GetAxisRaw(Axis.VERTICAL_AXIS) * (-z_Speed));
+            Input.GetAxisRaw(Axis.VERTICAL_AXIS) * (z_Speed));
     }
 
     void RotatePlayer() {
