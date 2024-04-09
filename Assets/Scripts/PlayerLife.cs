@@ -1,27 +1,38 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Unity.Netcode;
 using UnityEngine.SceneManagement;
 
-public class PlayerLife : MonoBehaviour
+public class PlayerLife : NetworkBehaviour
 {
+    [SerializeField] private float maxHealth;
+    private float currentHealth;
+    public HealthBar healthBar ;
     bool dead = false;
 
-    private void Update()
+    private void Start()
     {
-        if(transform.position.y < -1f && !dead)
+        healthBar = GameObject.FindWithTag("Health").GetComponent<HealthBar>();
+        currentHealth = maxHealth;
+        healthBar.SetSliderMax(maxHealth);
+    }
+    void Update()
+    {
+        if(!IsOwner) return;
+        
+        if(Input.GetKeyDown(KeyCode.K))
         {
-            Die();
+            TakeDamage(20f);
         }
+    }
+    public void TakeDamage(float amount)
+    {
+        currentHealth -= amount;
+        healthBar.SetSlider(currentHealth);
     }
     void Die()
     {
-        Invoke(nameof(ReloadLevel), 1.3f);
         dead = true;
-    }
-
-    void ReloadLevel()
-    {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }

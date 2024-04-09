@@ -1135,7 +1135,7 @@ GameObject:
   - component: {fileID: 8045327958664169509}
   - component: {fileID: 4290177596766561128}
   - component: {fileID: 238658818695143342}
-  - component: {fileID: 2180405948533690441}
+  - component: {fileID: 9201106044333716727}
   m_Layer: 0
   m_Name: Fighter1
   m_TagString: Untagged
@@ -1194,7 +1194,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GlobalObjectIdHash: 1633854641
+  GlobalObjectIdHash: 2250928888
   AlwaysReplicateAsRoot: 0
   SynchronizeTransform: 1
   ActiveSceneSynchronization: 0
@@ -1339,7 +1339,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TransitionStateInfoList: []
   m_Animator: {fileID: 1611139941451886831}
---- !u!114 &2180405948533690441
+--- !u!114 &9201106044333716727
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1348,10 +1348,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 5471899134697107503}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e90aca1d15dad4bdb8f47fb81faae195, type: 3}
+  m_Script: {fileID: 11500000, guid: b191f00a61cd34c25a5947fc2e064b5f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _MotionTransform: {fileID: 4664541642895862421}
+  maxHealth: 100
+  healthBar: {fileID: 0}
 --- !u!1 &5627954331784131494
 GameObject:
   m_ObjectHideFlags: 0
