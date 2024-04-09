@@ -1,0 +1,2480 @@
+fileFormatVersion: 2
+guid: 8ea438f83d688754aa3515b504603b5b
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: -31621016144070746
+    second: Fighter2 Crouch
+  - first:
+      74: -5382419374677332826
+    second: Fighter2 Crouch Block
+  - first:
+      74: -2585605418339111858
+    second: Fighter2 Crouch Block Take Hit
+  - first:
+      74: -6005441482325532417
+    second: Fighter2 Crouch Damage Light
+  - first:
+      74: 2589503827946580296
+    second: Fighter2 Crouch Damage Heavy
+  - first:
+      74: 6758705862212376907
+    second: Fighter2 Crouch Punch Light
+  - first:
+      74: -8483297908480929771
+    second: Fighter2 Crouch Punch Heavy
+  - first:
+      74: 6916957803398198411
+    second: Fighter2 Crouch Kick Light
+  - first:
+      74: 174341290727632522
+    second: Fighter2 Crouch Kick Heavy
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fighter2 Crouch
+      takeName: Crouch All
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Fighter2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot/Fighter2 L Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot/Fighter2 R Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01/Fighter2 L Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11/Fighter2 L Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21/Fighter2 L Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31/Fighter2 L Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41/Fighter2 L Finger42
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck/Fighter2 Head
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01/Fighter2 R Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11/Fighter2 R Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21/Fighter2 R Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31/Fighter2 R Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41/Fighter2 R Finger42
+        weight: 1
+      - path: Fighter2 Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: cd905846c59e6a64dab88339aa25eec0, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fighter2 Crouch Block
+      takeName: Crouch All
+      internalID: 0
+      firstFrame: 40
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Fighter2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot/Fighter2 L Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot/Fighter2 R Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01/Fighter2 L Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11/Fighter2 L Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21/Fighter2 L Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31/Fighter2 L Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41/Fighter2 L Finger42
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck/Fighter2 Head
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01/Fighter2 R Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11/Fighter2 R Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21/Fighter2 R Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31/Fighter2 R Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41/Fighter2 R Finger42
+        weight: 1
+      - path: Fighter2 Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: cd905846c59e6a64dab88339aa25eec0, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fighter2 Crouch Block Take Hit
+      takeName: Crouch All
+      internalID: 0
+      firstFrame: 80
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Fighter2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot/Fighter2 L Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot/Fighter2 R Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01/Fighter2 L Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11/Fighter2 L Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21/Fighter2 L Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31/Fighter2 L Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41/Fighter2 L Finger42
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck/Fighter2 Head
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01/Fighter2 R Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11/Fighter2 R Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21/Fighter2 R Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31/Fighter2 R Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41/Fighter2 R Finger42
+        weight: 1
+      - path: Fighter2 Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: cd905846c59e6a64dab88339aa25eec0, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fighter2 Crouch Damage Light
+      takeName: Crouch All
+      internalID: 0
+      firstFrame: 110
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Fighter2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot/Fighter2 L Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot/Fighter2 R Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01/Fighter2 L Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11/Fighter2 L Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21/Fighter2 L Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31/Fighter2 L Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41/Fighter2 L Finger42
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck/Fighter2 Head
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01/Fighter2 R Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11/Fighter2 R Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21/Fighter2 R Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31/Fighter2 R Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41/Fighter2 R Finger42
+        weight: 1
+      - path: Fighter2 Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: cd905846c59e6a64dab88339aa25eec0, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fighter2 Crouch Damage Heavy
+      takeName: Crouch All
+      internalID: 0
+      firstFrame: 140
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Fighter2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot/Fighter2 L Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot/Fighter2 R Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01/Fighter2 L Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11/Fighter2 L Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21/Fighter2 L Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31/Fighter2 L Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41/Fighter2 L Finger42
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck/Fighter2 Head
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01/Fighter2 R Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11/Fighter2 R Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21/Fighter2 R Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31/Fighter2 R Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41/Fighter2 R Finger42
+        weight: 1
+      - path: Fighter2 Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: cd905846c59e6a64dab88339aa25eec0, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fighter2 Crouch Punch Light
+      takeName: Crouch All
+      internalID: 0
+      firstFrame: 180
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Fighter2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot/Fighter2 L Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot/Fighter2 R Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01/Fighter2 L Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11/Fighter2 L Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21/Fighter2 L Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31/Fighter2 L Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41/Fighter2 L Finger42
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck/Fighter2 Head
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01/Fighter2 R Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11/Fighter2 R Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21/Fighter2 R Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31/Fighter2 R Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41/Fighter2 R Finger42
+        weight: 1
+      - path: Fighter2 Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: cd905846c59e6a64dab88339aa25eec0, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fighter2 Crouch Punch Heavy
+      takeName: Crouch All
+      internalID: 0
+      firstFrame: 210
+      lastFrame: 235
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Fighter2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot/Fighter2 L Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot/Fighter2 R Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01/Fighter2 L Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11/Fighter2 L Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21/Fighter2 L Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31/Fighter2 L Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41/Fighter2 L Finger42
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck/Fighter2 Head
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01/Fighter2 R Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11/Fighter2 R Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21/Fighter2 R Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31/Fighter2 R Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41/Fighter2 R Finger42
+        weight: 1
+      - path: Fighter2 Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: cd905846c59e6a64dab88339aa25eec0, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fighter2 Crouch Kick Light
+      takeName: Crouch All
+      internalID: 0
+      firstFrame: 240
+      lastFrame: 265
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Fighter2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot/Fighter2 L Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot/Fighter2 R Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01/Fighter2 L Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11/Fighter2 L Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21/Fighter2 L Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31/Fighter2 L Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41/Fighter2 L Finger42
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck/Fighter2 Head
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01/Fighter2 R Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11/Fighter2 R Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21/Fighter2 R Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31/Fighter2 R Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41/Fighter2 R Finger42
+        weight: 1
+      - path: Fighter2 Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: cd905846c59e6a64dab88339aa25eec0, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fighter2 Crouch Kick Heavy
+      takeName: Crouch All
+      internalID: 0
+      firstFrame: 270
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Fighter2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 L Thigh/Fighter2 L Calf/Fighter2
+          L Foot/Fighter2 L Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 R Thigh/Fighter2 R Calf/Fighter2
+          R Foot/Fighter2 R Toe0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger0/Fighter2 L Finger01/Fighter2 L Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger1/Fighter2 L Finger11/Fighter2 L Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger2/Fighter2 L Finger21/Fighter2 L Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger3/Fighter2 L Finger31/Fighter2 L Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          L Clavicle/Fighter2 L UpperArm/Fighter2 L Forearm/Fighter2 L Hand/Fighter2
+          L Finger4/Fighter2 L Finger41/Fighter2 L Finger42
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          Neck/Fighter2 Head
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger0/Fighter2 R Finger01/Fighter2 R Finger02
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger1/Fighter2 R Finger11/Fighter2 R Finger12
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger2/Fighter2 R Finger21/Fighter2 R Finger22
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger3/Fighter2 R Finger31/Fighter2 R Finger32
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41
+        weight: 1
+      - path: Fighter2/Fighter2 Pelvis/Fighter2 Spine/Fighter2 Spine1/Fighter2 Spine2/Fighter2
+          R Clavicle/Fighter2 R UpperArm/Fighter2 R Forearm/Fighter2 R Hand/Fighter2
+          R Finger4/Fighter2 R Finger41/Fighter2 R Finger42
+        weight: 1
+      - path: Fighter2 Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: cd905846c59e6a64dab88339aa25eec0, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Fighter2 Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter2 Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Fighter2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.00000048493723, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fighter2 Mesh
+      parentName: Fighter2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fighter2
+      parentName: Fighter2(Clone)
+      position: {x: -0, y: 1.0052478, z: 0.00000008204162}
+      rotation: {x: -0.50000036, y: 0.49999964, z: 0.49999964, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Fighter2 Pelvis
+      parentName: Fighter2
+      position: {x: 0, y: 0, z: 0.04155326}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fighter2 R Thigh
+      parentName: Fighter2 Pelvis
+      position: {x: -0.00000015258789, y: -0.00000014169996, z: -0.13386266}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Fighter2 R Calf
+      parentName: Fighter2 R Thigh
+      position: {x: -0.4727361, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Fighter2 R Foot
+      parentName: Fighter2 R Calf
+      position: {x: -0.45370662, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+    - name: Fighter2 R Toe0
+      parentName: Fighter2 R Foot
+      position: {x: -0.08986896, y: 0.17053893, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+    - name: Fighter2 L Thigh
+      parentName: Fighter2 Pelvis
+      position: {x: 0.00000015258789, y: 0.00000022958152, z: 0.13386266}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: Fighter2 L Calf
+      parentName: Fighter2 L Thigh
+      position: {x: -0.47273603, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: Fighter2 L Foot
+      parentName: Fighter2 L Calf
+      position: {x: -0.45370662, y: 0.000000009536743, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Fighter2 L Toe0
+      parentName: Fighter2 L Foot
+      position: {x: -0.08986896, y: 0.17053893, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000004}
+    - name: Fighter2 Spine
+      parentName: Fighter2 Pelvis
+      position: {x: -0.08121894, y: -0.00014616369, z: 0.00000011283715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Fighter2 Spine1
+      parentName: Fighter2 Spine
+      position: {x: -0.18375152, y: -0.00014620303, z: -4.055073e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000005}
+    - name: Fighter2 Spine2
+      parentName: Fighter2 Spine1
+      position: {x: -0.18375167, y: -0.00014619828, z: -4.055255e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.9999999}
+    - name: Fighter2 Neck
+      parentName: Fighter2 Spine2
+      position: {x: -0.18380187, y: -0.000090694426, z: -2.5152985e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000001}
+    - name: Fighter2 Head
+      parentName: Fighter2 Neck
+      position: {x: -0.12694778, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: Fighter2 R Clavicle
+      parentName: Fighter2 Spine2
+      position: {x: -0.1266928, y: -0.030788526, z: -0.03710499}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Fighter2 R UpperArm
+      parentName: Fighter2 R Clavicle
+      position: {x: -0.21438639, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: Fighter2 R Forearm
+      parentName: Fighter2 R UpperArm
+      position: {x: -0.32588446, y: -0.000000009536743, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000001}
+    - name: Fighter2 R Hand
+      parentName: Fighter2 R Forearm
+      position: {x: -0.22404231, y: -0.000000038146972, z: -0.00000015258789}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: Fighter2 R Finger1
+      parentName: Fighter2 R Hand
+      position: {x: -0.17115955, y: -0.0000793457, z: 0.044954147}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000001}
+    - name: Fighter2 R Finger11
+      parentName: Fighter2 R Finger1
+      position: {x: -0.047634676, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: Fighter2 R Finger12
+      parentName: Fighter2 R Finger11
+      position: {x: -0.040045355, y: 0.000000076293944, z: -0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 0.9999999}
+    - name: Fighter2 R Finger0
+      parentName: Fighter2 R Hand
+      position: {x: -0.070806846, y: 0.0074337767, z: 0.03420309}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000007}
+    - name: Fighter2 R Finger01
+      parentName: Fighter2 R Finger0
+      position: {x: -0.056166876, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000002}
+    - name: Fighter2 R Finger02
+      parentName: Fighter2 R Finger01
+      position: {x: -0.040377915, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1}
+    - name: Fighter2 R Finger2
+      parentName: Fighter2 R Hand
+      position: {x: -0.1751942, y: 0.00073089596, z: 0.010740757}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000002}
+    - name: Fighter2 R Finger21
+      parentName: Fighter2 R Finger2
+      position: {x: -0.053374708, y: 0, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000007, z: 1}
+    - name: Fighter2 R Finger22
+      parentName: Fighter2 R Finger21
+      position: {x: -0.046719473, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1.0000001}
+    - name: Fighter2 R Finger4
+      parentName: Fighter2 R Hand
+      position: {x: -0.17048728, y: -0.0016966247, z: -0.059268415}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1}
+    - name: Fighter2 R Finger41
+      parentName: Fighter2 R Finger4
+      position: {x: -0.046608504, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 0.9999999}
+    - name: Fighter2 R Finger42
+      parentName: Fighter2 R Finger41
+      position: {x: -0.033371046, y: -0.000000076293944, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: Fighter2 R Finger3
+      parentName: Fighter2 R Hand
+      position: {x: -0.17754272, y: -0.0011148071, z: -0.023575}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: Fighter2 R Finger31
+      parentName: Fighter2 R Finger3
+      position: {x: -0.05184967, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1}
+    - name: Fighter2 R Finger32
+      parentName: Fighter2 R Finger31
+      position: {x: -0.044307098, y: 0, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999976, z: 1}
+    - name: Fighter2 L Clavicle
+      parentName: Fighter2 Spine2
+      position: {x: -0.1266928, y: -0.030788736, z: 0.03710482}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1, y: 0.99999976, z: 1}
+    - name: Fighter2 L UpperArm
+      parentName: Fighter2 L Clavicle
+      position: {x: -0.21438642, y: -0.000000009536743, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: Fighter2 L Forearm
+      parentName: Fighter2 L UpperArm
+      position: {x: -0.32588446, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1.0000002}
+    - name: Fighter2 L Hand
+      parentName: Fighter2 L Forearm
+      position: {x: -0.22404231, y: -0.000000057220458, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000001}
+    - name: Fighter2 L Finger1
+      parentName: Fighter2 L Hand
+      position: {x: -0.1711595, y: -0.000079193116, z: -0.044954147}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: Fighter2 L Finger11
+      parentName: Fighter2 L Finger1
+      position: {x: -0.047634657, y: -0.000000076293944, z: -0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000008}
+    - name: Fighter2 L Finger12
+      parentName: Fighter2 L Finger11
+      position: {x: -0.040045317, y: 0, z: 0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1.0000006}
+    - name: Fighter2 L Finger0
+      parentName: Fighter2 L Hand
+      position: {x: -0.07080681, y: 0.0074339295, z: -0.03420309}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000006}
+    - name: Fighter2 L Finger01
+      parentName: Fighter2 L Finger0
+      position: {x: -0.056166876, y: 0, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1.0000004}
+    - name: Fighter2 L Finger02
+      parentName: Fighter2 L Finger01
+      position: {x: -0.040377926, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1}
+    - name: Fighter2 L Finger2
+      parentName: Fighter2 L Hand
+      position: {x: -0.1751942, y: 0.0007310486, z: -0.010740719}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000007}
+    - name: Fighter2 L Finger21
+      parentName: Fighter2 L Finger2
+      position: {x: -0.053374708, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000005}
+    - name: Fighter2 L Finger22
+      parentName: Fighter2 L Finger21
+      position: {x: -0.046719473, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000006, z: 1.0000005}
+    - name: Fighter2 L Finger4
+      parentName: Fighter2 L Hand
+      position: {x: -0.17048728, y: -0.0016966247, z: 0.059268415}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000008}
+    - name: Fighter2 L Finger41
+      parentName: Fighter2 L Finger4
+      position: {x: -0.04660854, y: 0, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 0.9999999}
+    - name: Fighter2 L Finger42
+      parentName: Fighter2 L Finger41
+      position: {x: -0.03337097, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000002}
+    - name: Fighter2 L Finger3
+      parentName: Fighter2 L Hand
+      position: {x: -0.17754272, y: -0.0011146545, z: 0.023575}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.000001}
+    - name: Fighter2 L Finger31
+      parentName: Fighter2 L Finger3
+      position: {x: -0.051849745, y: 0.00000015258789, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000008}
+    - name: Fighter2 L Finger32
+      parentName: Fighter2 L Finger31
+      position: {x: -0.044307098, y: -0.00000015258789, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000001}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 167d4e274ffd25145a1d88d653e6b265, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

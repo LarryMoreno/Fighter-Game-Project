@@ -30,7 +30,7 @@ public class PlayerMovement : NetworkBehaviour
     {
         if(!IsOwner) return;
         
-        /*float horizontalInput = Input.GetAxis("Horizontal");
+        float horizontalInput = Input.GetAxis("Horizontal");
         float verticalInput = Input.GetAxis("Vertical");
 
         rb.velocity = new Vector3(horizontalInput * movementSpeed, rb.velocity.y, verticalInput * movementSpeed);
@@ -38,7 +38,7 @@ public class PlayerMovement : NetworkBehaviour
         if(Input.GetButtonDown("Jump") && IsGrounded())
         {
             rb.velocity = new Vector3(rb.velocity.x, jumpForce, rb.velocity.z);
-        }*/
+        }
 
         RotatePlayer();
         AnimatePlayerWalk();
@@ -66,11 +66,12 @@ public class PlayerMovement : NetworkBehaviour
     void RotatePlayer() {
         if(Input.GetAxisRaw(Axis.HORIZONTAL_AXIS) > 0 )
         {
-            transform.rotation = Quaternion.Euler(0f, rotation_Y, 0f);
+            transform.rotation = Quaternion.Euler(0f, Mathf.Abs(rotation_Y), 0f);
+            
         }
         else if (Input.GetAxisRaw(Axis.HORIZONTAL_AXIS) < 0)
         {
-            transform.rotation = Quaternion.Euler(0f, Mathf.Abs(rotation_Y), 0f);
+            transform.rotation = Quaternion.Euler(0f, rotation_Y, 0f);
         }
     }
 

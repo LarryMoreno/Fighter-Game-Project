@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: 7f42c32417ef9f146b0b49d8f7c5fcb9
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Fighter1 Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fighter1 Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Fighter1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.00000046160335, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fighter1
+      parentName: Fighter1(Clone)
+      position: {x: -7.809048e-10, y: 0.9711612, z: 0}
+      rotation: {x: -0.50000036, y: 0.49999964, z: 0.49999964, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Fighter1 Pelvis
+      parentName: Fighter1
+      position: {x: 3.0742539e-28, y: 0, z: 0.04241246}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fighter1 L Thigh
+      parentName: Fighter1 Pelvis
+      position: {x: 0.00000015258789, y: 0.0000002185522, z: 0.12698397}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: Fighter1 L Calf
+      parentName: Fighter1 L Thigh
+      position: {x: -0.5041267, y: -0.000000009536743, z: -0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999976, z: 1.0000001}
+    - name: Fighter1 L Foot
+      parentName: Fighter1 L Calf
+      position: {x: -0.3999881, y: 0, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Fighter1 L Toe0
+      parentName: Fighter1 L Foot
+      position: {x: -0.07993734, y: 0.1640406, z: -0.018125916}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000005, y: 1, z: 1}
+    - name: Fighter1 L Toe1
+      parentName: Fighter1 L Foot
+      position: {x: -0.07993734, y: 0.16404063, z: 0.052061804}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.99999964}
+    - name: Fighter1 R Thigh
+      parentName: Fighter1 Pelvis
+      position: {x: -0.00000015258789, y: -0.00000013365059, z: -0.12698397}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 0.99999976, y: 1.0000001, z: 0.9999996}
+    - name: Fighter1 R Calf
+      parentName: Fighter1 R Thigh
+      position: {x: -0.50412667, y: -0.0000000047683715, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: Fighter1 R Foot
+      parentName: Fighter1 R Calf
+      position: {x: -0.39998809, y: 0.000000009536743, z: -0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999976, z: 1}
+    - name: Fighter1 R Toe0
+      parentName: Fighter1 R Foot
+      position: {x: -0.07993734, y: 0.16404063, z: 0.018125916}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000014, y: 1.0000005, z: 1.0000007}
+    - name: Fighter1 R Toe1
+      parentName: Fighter1 R Foot
+      position: {x: -0.07993734, y: 0.16404063, z: -0.052061785}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1.0000001}
+    - name: Fighter1 Spine
+      parentName: Fighter1 Pelvis
+      position: {x: -0.093080595, y: -0.016324822, z: 0.00000017392419}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: Fighter1 L Belt
+      parentName: Fighter1 Spine
+      position: {x: 0.024989318, y: 0.2341028, z: 0.088243686}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 0.9999995, z: 0.99999976}
+    - name: Fighter1 L Belt02
+      parentName: Fighter1 L Belt
+      position: {x: -0.2034885, y: -0.00014190674, z: -0.000066719054}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+    - name: Fighter1 L Belt03
+      parentName: Fighter1 L Belt02
+      position: {x: -0.20345569, y: -0.00015884399, z: 0.00003097534}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 0.99999994, z: 1.0000006}
+    - name: Fighter1 R Belt
+      parentName: Fighter1 Spine
+      position: {x: 0.026536865, y: 0.22171909, z: -0.07586343}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Fighter1 R Belt02
+      parentName: Fighter1 R Belt
+      position: {x: -0.1614231, y: -0.00011505127, z: 0.000010244846}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.000001, z: 1.0000005}
+    - name: Fighter1 R Belt03
+      parentName: Fighter1 R Belt02
+      position: {x: -0.20322357, y: -0.00016094207, z: -0.000018186569}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1, z: 1}
+    - name: Fighter1 Spine1
+      parentName: Fighter1 Spine
+      position: {x: -0.16425018, y: -0.0001307094, z: -3.6253367e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Fighter1 Spine2
+      parentName: Fighter1 Spine1
+      position: {x: -0.16425003, y: -0.00013071537, z: -3.6254277e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+    - name: Fighter1 L Clavicle
+      parentName: Fighter1 Spine2
+      position: {x: -0.12484878, y: -0.009187107, z: 0.033166766}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: Fighter1 L UpperArm
+      parentName: Fighter1 L Clavicle
+      position: {x: -0.21476, y: 0, z: 0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999993, y: 1.0000006, z: 1.0000006}
+    - name: Fighter1 L Forearm
+      parentName: Fighter1 L UpperArm
+      position: {x: -0.30693755, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1.0000002, z: 1.0000001}
+    - name: Fighter1 L Hand
+      parentName: Fighter1 L Forearm
+      position: {x: -0.23448974, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 0.99999976, y: 1.000001, z: 1.0000011}
+    - name: Fighter1 L Finger0
+      parentName: Fighter1 L Hand
+      position: {x: -0.029541282, y: -0.002917099, z: -0.054190025}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 0.9999995, y: 1.0000006, z: 1.0000002}
+    - name: Fighter1 L Finger01
+      parentName: Fighter1 L Finger0
+      position: {x: -0.043202743, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000013}
+    - name: Fighter1 L Finger02
+      parentName: Fighter1 L Finger01
+      position: {x: -0.043058395, y: -0.000000076293944, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.9999988}
+    - name: Fighter1 L Finger1
+      parentName: Fighter1 L Hand
+      position: {x: -0.14325751, y: 0.0063213347, z: -0.046393126}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999989, y: 1.0000012, z: 0.99999976}
+    - name: Fighter1 L Finger11
+      parentName: Fighter1 L Finger1
+      position: {x: -0.0594622, y: 0.000000076293944, z: 0.000000028610229}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 1.0000005, z: 1.0000002}
+    - name: Fighter1 L Finger12
+      parentName: Fighter1 L Finger11
+      position: {x: -0.035610504, y: 0.000000076293944, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Fighter1 L Finger2
+      parentName: Fighter1 L Hand
+      position: {x: -0.1437651, y: 0.0064715575, z: -0.009633064}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.999999, y: 1.0000013, z: 0.99999976}
+    - name: Fighter1 L Finger21
+      parentName: Fighter1 L Finger2
+      position: {x: -0.060786817, y: 0, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999994, y: 1.0000004, z: 1.0000001}
+    - name: Fighter1 L Finger22
+      parentName: Fighter1 L Finger21
+      position: {x: -0.039031982, y: 0.000000038146972, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1}
+    - name: Fighter1 L Finger3
+      parentName: Fighter1 L Hand
+      position: {x: -0.14197604, y: 0.0064728544, z: 0.025097989}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999887, y: 1.0000012, z: 0.99999964}
+    - name: Fighter1 L Finger31
+      parentName: Fighter1 L Finger3
+      position: {x: -0.0543869, y: 0.000000076293944, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000006, z: 1}
+    - name: Fighter1 L Finger32
+      parentName: Fighter1 L Finger31
+      position: {x: -0.033461988, y: -0.000000038146972, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1.0000004, z: 0.99999976}
+    - name: Fighter1 L Finger4
+      parentName: Fighter1 L Hand
+      position: {x: -0.13452022, y: 0.010453339, z: 0.05455427}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999983, y: 1.0000015, z: 0.99999964}
+    - name: Fighter1 L Finger41
+      parentName: Fighter1 L Finger4
+      position: {x: -0.030360106, y: 0.000000038146972, z: -0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000006}
+    - name: Fighter1 L Finger42
+      parentName: Fighter1 L Finger41
+      position: {x: -0.02668457, y: 0.000000038146972, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999993, y: 1, z: 0.9999993}
+    - name: Fighter1 Neck
+      parentName: Fighter1 Spine2
+      position: {x: -0.16430129, y: -0.000108442306, z: -3.007881e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1}
+    - name: Fighter1 Head
+      parentName: Fighter1 Neck
+      position: {x: -0.14845611, y: -0.000000038146972, z: -1.4551915e-13}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: Fighter1 R Clavicle
+      parentName: Fighter1 Spine2
+      position: {x: -0.12484878, y: -0.009186925, z: -0.033166822}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1.0000002}
+    - name: Fighter1 R UpperArm
+      parentName: Fighter1 R Clavicle
+      position: {x: -0.21475998, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000002}
+    - name: Fighter1 R Forearm
+      parentName: Fighter1 R UpperArm
+      position: {x: -0.30693763, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000005}
+    - name: Fighter1 R Hand
+      parentName: Fighter1 R Forearm
+      position: {x: -0.23448966, y: 0.000000019073486, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1}
+    - name: Fighter1 R Finger0
+      parentName: Fighter1 R Hand
+      position: {x: -0.029541245, y: -0.0029170227, z: 0.054190043}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: Fighter1 R Finger01
+      parentName: Fighter1 R Finger0
+      position: {x: -0.043202706, y: 0, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000004}
+    - name: Fighter1 R Finger02
+      parentName: Fighter1 R Finger01
+      position: {x: -0.043058395, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: Fighter1 R Finger1
+      parentName: Fighter1 R Hand
+      position: {x: -0.14325751, y: 0.006321411, z: 0.046393137}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: Fighter1 R Finger11
+      parentName: Fighter1 R Finger1
+      position: {x: -0.05946228, y: 0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999995, z: 1}
+    - name: Fighter1 R Finger12
+      parentName: Fighter1 R Finger11
+      position: {x: -0.035610504, y: -0.000000038146972, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Fighter1 R Finger2
+      parentName: Fighter1 R Hand
+      position: {x: -0.14376506, y: 0.006471634, z: 0.009633074}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: Fighter1 R Finger21
+      parentName: Fighter1 R Finger2
+      position: {x: -0.060786817, y: 0, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999995, z: 1}
+    - name: Fighter1 R Finger22
+      parentName: Fighter1 R Finger21
+      position: {x: -0.039032057, y: 0.000000038146972, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999976, z: 0.9999999}
+    - name: Fighter1 R Finger3
+      parentName: Fighter1 R Hand
+      position: {x: -0.14197604, y: 0.006472931, z: -0.025097951}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+    - name: Fighter1 R Finger31
+      parentName: Fighter1 R Finger3
+      position: {x: -0.0543869, y: -0.000000076293944, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999976, z: 1.0000001}
+    - name: Fighter1 R Finger32
+      parentName: Fighter1 R Finger31
+      position: {x: -0.033461988, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999976, z: 1.0000001}
+    - name: Fighter1 R Finger4
+      parentName: Fighter1 R Hand
+      position: {x: -0.13452019, y: 0.010453339, z: -0.05455425}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999964, z: 0.9999999}
+    - name: Fighter1 R Finger41
+      parentName: Fighter1 R Finger4
+      position: {x: -0.030360183, y: -0.000000038146972, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Fighter1 R Finger42
+      parentName: Fighter1 R Finger41
+      position: {x: -0.02668457, y: 0.000000095367426, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 0.99999976, z: 0.9999999}
+    - name: Fighter1 Mesh
+      parentName: Fighter1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
