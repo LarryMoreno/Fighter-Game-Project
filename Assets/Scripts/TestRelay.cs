@@ -12,6 +12,8 @@ using UnityEngine;
 
 public class TestRelay : MonoBehaviour
 {
+   public GameObject menu;
+   public GameObject ui;
     private async void Start()
     {
         await UnityServices.InitializeAsync();
@@ -52,6 +54,9 @@ public class TestRelay : MonoBehaviour
             NetworkManager.Singleton.GetComponent<UnityTransport>().SetRelayServerData(relayServerData);
 
             NetworkManager.Singleton.StartClient();
+
+            menu.SetActive(false);
+            ui.SetActive(true);
 
         } catch (RelayServiceException e) {
             Debug.Log(e);
