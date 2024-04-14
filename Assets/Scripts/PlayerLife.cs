@@ -7,13 +7,14 @@ using UnityEngine.SceneManagement;
 public class PlayerLife : NetworkBehaviour
 {
     [SerializeField] private float maxHealth;
-    private float currentHealth;
+    [SerializeField] private float currentHealth;
     public HealthBar healthBar ;
+    public HealthBar healthBar2 ;
     bool dead = false;
 
     private void Start()
     {
-        healthBar = GameObject.FindWithTag("Health").GetComponent<HealthBar>();
+        healthBar = GameObject.Find("HealthBar").GetComponent<HealthBar>();
         currentHealth = maxHealth;
         healthBar.SetSliderMax(maxHealth);
     }
@@ -26,13 +27,16 @@ public class PlayerLife : NetworkBehaviour
             TakeDamage(20f);
         }
     }
+    
     public void TakeDamage(float amount)
     {
         currentHealth -= amount;
         healthBar.SetSlider(currentHealth);
     }
+
     void Die()
     {
         dead = true;
     }
+
 }

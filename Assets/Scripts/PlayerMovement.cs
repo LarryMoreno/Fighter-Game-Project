@@ -84,5 +84,6 @@ public class PlayerMovement : NetworkBehaviour
         {
             player_Anim.Walk(false);
         }
+ 
     }
 }
