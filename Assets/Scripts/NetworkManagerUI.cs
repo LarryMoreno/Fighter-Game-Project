@@ -18,7 +18,7 @@ public class NetworkManagerUI : MonoBehaviour
 
     private void Awake(){
         
-        NetworkManager.Singleton.GetComponent<UnityTransport>().SetConnectionData("127.0.0.1", 7777);
+        NetworkManager.Singleton.GetComponent<UnityTransport>().SetConnectionData("127.0.0.1", 4444);
 
         hostbutton.onClick.AddListener(() => {
             NetworkManager.Singleton.StartHost();
