@@ -1243,7 +1243,7 @@ GameObject:
   - component: {fileID: 9201106044333716727}
   - component: {fileID: 8663965190826477993}
   m_Layer: 7
-  m_Name: Fighter1
+  m_Name: Fighter2
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1300,7 +1300,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GlobalObjectIdHash: 2250928888
+  GlobalObjectIdHash: 4016093924
   AlwaysReplicateAsRoot: 0
   SynchronizeTransform: 1
   ActiveSceneSynchronization: 0
@@ -1560,7 +1560,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b8236ba66f1d499428eaa03a8e06b6ea, type: 2}
+  - {fileID: 2100000, guid: 574e0ed77553bc545a9e0d1171142ecd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

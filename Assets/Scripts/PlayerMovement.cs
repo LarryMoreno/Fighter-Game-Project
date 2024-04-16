@@ -36,6 +36,21 @@ public class PlayerMovement : NetworkBehaviour
         }
     }
 
+    public override void OnNetworkSpawn()
+    {
+        base.OnNetworkSpawn();
+        if(NetworkObjectId == 1)
+        {
+            this.transform.position = new Vector3(5, -0.3f, 0);
+            this.transform.Rotate(0, -90, 0);
+        }
+        if(NetworkObjectId == 2)
+        {
+            this.transform.position = new Vector3(-5, -0.3f, 0);
+            //this.transform.Rotate(0, -270, 0);
+        }
+    }
+
     // Update is called once per frame
     void Update()
     {
@@ -99,6 +114,15 @@ public class PlayerMovement : NetworkBehaviour
         {
             player_Anim.Walk(false);
         }
+ 
+    }
+
+    public void AnimateDeath(){
+        player_Anim.Death();
+    }
+
+    public void AnimateVictory(){
+        player_Anim.Victory();
  
     }
 }

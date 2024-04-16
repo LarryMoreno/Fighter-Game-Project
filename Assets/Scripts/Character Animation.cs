@@ -37,4 +37,12 @@ public class CharacterAnimation : MonoBehaviour
     public void Kick_2(){
         anim.SetTrigger(AnimationTags.KICK_2_TRIGGER);
     }
+
+    public void Death(){
+        anim.SetTrigger(AnimationTags.DEATH_TRIGGER);
+    }
+
+    public void Victory(){
+        anim.SetTrigger(AnimationTags.VICTORY_TRIGGER);
+    }
 }

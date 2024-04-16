@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Health
+  - LeftArm
+  - LeftLeg
+  - RightArm
+  - RightLeg
   layers:
   - Default
   - TransparentFX

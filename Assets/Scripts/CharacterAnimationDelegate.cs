@@ -60,4 +60,47 @@ public class CharacterAnimationDelegate : MonoBehaviour
         }
     }
 
+
+
+
+    void TagLeft_Arm()
+    {
+        left_Arm_Attack_Point.tag = Tags.LEFT_ARM_TAG;
+    }
+
+    void UnTagLeft_Arm()
+    {
+        left_Arm_Attack_Point.tag = Tags.UNTAGGED_TAG;
+    }
+
+    void TagRight_Arm()
+    {
+        right_Arm_Attack_Point.tag = Tags.RIGHT_ARM_TAG;
+    }
+
+    void UnTagRight_Arm()
+    {
+        left_Arm_Attack_Point.tag = Tags.UNTAGGED_TAG;
+    }
+
+    void TagLeft_Leg()
+    {
+        left_Leg_Attack_Point.tag = Tags.LEFT_LEG_TAG;
+    }
+
+    void UnTagLeft_Leg()
+    {
+        left_Leg_Attack_Point.tag = Tags.UNTAGGED_TAG;
+    }
+
+    void TagRight_Leg()
+    {
+        right_Leg_Attack_Point.tag = Tags.RIGHT_LEG_TAG;
+    }
+
+    void UnTagRight_Leg()
+    {
+        right_Leg_Attack_Point.tag = Tags.UNTAGGED_TAG;
+    }
+
 }

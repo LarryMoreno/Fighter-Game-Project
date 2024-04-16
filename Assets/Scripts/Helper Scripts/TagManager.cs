@@ -23,6 +23,8 @@ public class AnimationTags {
     public const string STAND_UP_TRIGGER = "StandUp";
     public const string HIT_TRIGGER = "Hit";
     public const string DEATH_TRIGGER = "Death";
+
+    public const string VICTORY_TRIGGER = "Victory";
 }
 
 public class Axis {
@@ -35,4 +37,9 @@ public class Tags {
     public const string PLAYER_TAG = "Player";
     public const string ENEMY_TAG = "ENEMY";
     public const string UNTAGGED_TAG = "Untagged";
+
+    public const string LEFT_ARM_TAG = "LeftArm";
+    public const string RIGHT_ARM_TAG = "RightArm";
+    public const string LEFT_LEG_TAG = "LeftLeg";
+    public const string RIGHT_LEG_TAG = "RightLeg";
 }
